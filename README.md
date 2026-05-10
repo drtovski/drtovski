@@ -8,35 +8,35 @@
   <a href="https://github.com/drtovski"><img src="https://komarev.com/ghpvc/?username=drtovski&style=for-the-badge&color=2563eb" alt="profile views"/></a>
 </p>
 
-# ÐŸÑ€Ð¸Ð²ÐµÑ‚, Ñ Ð”Ð¸Ð°Ñ
+# Привет, я Диас
 
-Ð¯ frontend-Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº Ð¸Ð· ÐšÐ°Ð·Ð°Ñ…ÑÑ‚Ð°Ð½Ð°. Ð›ÑŽÐ±Ð»ÑŽ Ð±Ñ‹ÑÑ‚Ñ€Ñ‹Ðµ Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÑ‹, Ð°ÐºÐºÑƒÑ€Ð°Ñ‚Ð½Ñ‹Ðµ CLI, Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð°Ñ†Ð¸ÑŽ, Ð¸Ð³Ñ€Ð¾Ð²Ñ‹Ðµ ÑˆÑ‚ÑƒÐºÐ¸ Ð¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ñ‹, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð²Ñ‹Ð³Ð»ÑÐ´ÑÑ‚ Ð¶Ð¸Ð²Ñ‹Ð¼Ð¸, Ð° Ð½Ðµ Ð¿Ñ€Ð¾ÑÑ‚Ð¾ â€œÑ€Ð°Ð±Ð¾Ñ‚Ð°ÑŽÑ‚â€.
+Я frontend-разработчик из Казахстана. Люблю быстрые интерфейсы, аккуратные CLI, автоматизацию, игровые штуки и проекты, которые выглядят живыми, а не просто «работают».
 
-Ð¡ÐµÐ¹Ñ‡Ð°Ñ Ð² Ñ„Ð¾ÐºÑƒÑÐµ: TypeScript, Vue/Nuxt, React/Next, Rust, Python, Kotlin Ð¸ Ð²ÑÑÐºÐ¸Ðµ Ð¿Ð¾Ð»ÐµÐ·Ð½Ñ‹Ðµ Ð¸Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð²Ð¾ÐºÑ€ÑƒÐ³ Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸.
+Сейчас в фокусе: TypeScript, Vue/Nuxt, React/Next, Rust, Python, Kotlin и всякие полезные инструменты вокруг разработки.
 
-## Ð’Ð¸Ñ‚Ñ€Ð¸Ð½Ð° Ð´Ð¾ÑÑ‚Ð¸Ð¶ÐµÐ½Ð¸Ð¹
+## Витрина достижений
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=drtovski&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="github trophies" />
 </p>
 
-## Ð¡Ñ‚ÐµÐº
+## Стек
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,nextjs,rust,python,kotlin,go,nodejs,nestjs,fastapi,postgres,mongodb,docker,figma,git,github&perline=10" alt="skills" />
 </p>
 
-## ÐŸÑ€Ð¾ÐµÐºÑ‚Ñ‹
+## Проекты
 
-| ÐŸÑ€Ð¾ÐµÐºÑ‚ | Ð§Ñ‚Ð¾ Ð²Ð½ÑƒÑ‚Ñ€Ð¸ |
+| Проект | Что внутри |
 | --- | --- |
-| [Discord-Cleaner](https://github.com/drtovski/Discord-Cleaner) | Desktop-Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾Ð¹ Ð¾Ñ‡Ð¸ÑÑ‚ÐºÐ¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Discord |
-| [Inequa](https://github.com/drtovski/Inequa) | Android-ÐºÐ°Ð»ÑŒÐºÑƒÐ»ÑÑ‚Ð¾Ñ€ Ð´Ð»Ñ Ð°Ð»Ð³ÐµÐ±Ñ€Ð°Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… Ð½ÐµÑ€Ð°Ð²ÐµÐ½ÑÑ‚Ð² |
-| [widgetable-miss-python](https://github.com/drtovski/widgetable-miss-python) | Python CLI Ð´Ð»Ñ Widgetable Miss You |
-| [widgetable-miss-typescript](https://github.com/drtovski/widgetable-miss-typescript) | TypeScript CLI Ð´Ð»Ñ Widgetable Miss You |
-| [widgetable-miss-rust](https://github.com/drtovski/widgetable-miss-rust) | Rust CLI Ð´Ð»Ñ Widgetable Miss You |
+| [Discord-Cleaner](https://github.com/drtovski/Discord-Cleaner) | Desktop-приложение для безопасной очистки сообщений Discord |
+| [Inequa](https://github.com/drtovski/Inequa) | Android-калькулятор для алгебраических неравенств |
+| [widgetable-miss-python](https://github.com/drtovski/widgetable-miss-python) | Python CLI для Widgetable Miss You |
+| [widgetable-miss-typescript](https://github.com/drtovski/widgetable-miss-typescript) | TypeScript CLI для Widgetable Miss You |
+| [widgetable-miss-rust](https://github.com/drtovski/widgetable-miss-rust) | Rust CLI для Widgetable Miss You |
 
-## Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ°
+## Статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=drtovski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" height="170"/>
@@ -47,9 +47,9 @@
   <img src="https://streak-stats.demolab.com/?user=drtovski&theme=tokyonight&hide_border=true" alt="github streak"/>
 </p>
 
-## Ð§Ñ‚Ð¾ Ð´ÐµÐ»Ð°ÑŽ
+## Что делаю
 
-- ÑÐ¾Ð±Ð¸Ñ€Ð°ÑŽ frontend Ð¸ fullstack-Ð¿Ñ€Ð¾ÐµÐºÑ‚Ñ‹ Ñ Ð½Ð¾Ñ€Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¼ UX;
-- Ð¿Ð¸ÑˆÑƒ CLI Ð¸ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð°Ñ†Ð¸ÑŽ, ÐºÐ¾Ð³Ð´Ð° Ñ€ÑƒÐºÐ°Ð¼Ð¸ ÑƒÐ¶Ðµ ÑÐºÑƒÑ‡Ð½Ð¾;
-- ÑÐºÑÐ¿ÐµÑ€Ð¸Ð¼ÐµÐ½Ñ‚Ð¸Ñ€ÑƒÑŽ Ñ Rust, Kotlin Ð¸ reverse engineering;
-- Ð´ÐµÑ€Ð¶Ñƒ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ Ñ‡Ð¸ÑÑ‚Ñ‹Ð¼: Ð¼ÐµÐ½ÑŒÑˆÐµ Ð¼ÑƒÑÐ¾Ñ€Ð°, Ð±Ð¾Ð»ÑŒÑˆÐµ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð¾Ð², ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ð¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ.
+- собираю frontend и fullstack-проекты с нормальным UX;
+- пишу CLI и автоматизацию, когда руками уже скучно;
+- экспериментирую с Rust, Kotlin и reverse engineering;
+- держу профиль чистым: меньше мусора, больше проектов, которые можно показать.
