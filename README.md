@@ -1,77 +1,55 @@
-<img align="right" src="https://drtovski.net/banner.png" alt="drtovski banner" width="380" />
-
-# Привет, я Диас *Лисичкин* 👋
-
-**drtovski** · **drt**
-Frontend-разработчик из Казахстана
-
-<a href="https://drtovski.net"><img src="https://img.shields.io/badge/website-drtovski.net-000?style=for-the-badge&logo=vercel&logoColor=white" alt="website"/></a>
-<a href="https://t.me/drtovski"><img src="https://img.shields.io/badge/telegram-@drtovski-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
-<a href="https://discord.com/users/1119880924092448808"><img src="https://img.shields.io/badge/discord-drtovski-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
-
-## 👾 Обо мне
-
-Делаю очень много… и ещё пью кока-колу.
-
-- 🧩 Специализируюсь на **frontend-разработке** и **дизайне**
-- 🎮 Балуюсь скриптингом для игр на `Python` / `Lua`
-- 🎧 Залипаю в **osu!**
-- 🌐 Портфолио → **[drtovski.net](https://drtovski.net)**
-
-<br clear="right"/>
-
----
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1200961336138543187/1496939886752694323/SPOILER_image.png?ex=69ebb568&is=69ea63e8&hm=ac1dd40e7459ea6b60564908666af944a3e29e5438c7dcbd0b151b27dbcab800&" alt="" width="400" />
-</p>
-
----
-
-## 🧰 Стек
-
-**Языки**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-**Backend**
-
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-
-**БД и инфра**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Дизайн**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drtovski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drtovski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" height="180"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:101827,45:2563eb,100:7c3aed&text=drtovski&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=64&desc=frontend%20%2F%20tools%20%2F%20weird%20automation&descAlign=50&descAlignY=58" alt="drtovski banner" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=drtovski&theme=tokyonight&hide_border=true" alt="streak"/>
+  <a href="https://drtovski.net"><img src="https://img.shields.io/badge/website-drtovski.net-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="website"/></a>
+  <a href="https://t.me/drtovski"><img src="https://img.shields.io/badge/telegram-@drtovski-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
+  <a href="https://github.com/drtovski"><img src="https://komarev.com/ghpvc/?username=drtovski&style=for-the-badge&color=2563eb" alt="profile views"/></a>
 </p>
+
+# ÐŸÑ€Ð¸Ð²ÐµÑ‚, Ñ Ð”Ð¸Ð°Ñ
+
+Ð¯ frontend-Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº Ð¸Ð· ÐšÐ°Ð·Ð°Ñ…ÑÑ‚Ð°Ð½Ð°. Ð›ÑŽÐ±Ð»ÑŽ Ð±Ñ‹ÑÑ‚Ñ€Ñ‹Ðµ Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÑ‹, Ð°ÐºÐºÑƒÑ€Ð°Ñ‚Ð½Ñ‹Ðµ CLI, Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð°Ñ†Ð¸ÑŽ, Ð¸Ð³Ñ€Ð¾Ð²Ñ‹Ðµ ÑˆÑ‚ÑƒÐºÐ¸ Ð¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ñ‹, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð²Ñ‹Ð³Ð»ÑÐ´ÑÑ‚ Ð¶Ð¸Ð²Ñ‹Ð¼Ð¸, Ð° Ð½Ðµ Ð¿Ñ€Ð¾ÑÑ‚Ð¾ â€œÑ€Ð°Ð±Ð¾Ñ‚Ð°ÑŽÑ‚â€.
+
+Ð¡ÐµÐ¹Ñ‡Ð°Ñ Ð² Ñ„Ð¾ÐºÑƒÑÐµ: TypeScript, Vue/Nuxt, React/Next, Rust, Python, Kotlin Ð¸ Ð²ÑÑÐºÐ¸Ðµ Ð¿Ð¾Ð»ÐµÐ·Ð½Ñ‹Ðµ Ð¸Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð²Ð¾ÐºÑ€ÑƒÐ³ Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸.
+
+## Ð’Ð¸Ñ‚Ñ€Ð¸Ð½Ð° Ð´Ð¾ÑÑ‚Ð¸Ð¶ÐµÐ½Ð¸Ð¹
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=drtovski&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="github trophies" />
+</p>
+
+## Ð¡Ñ‚ÐµÐº
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,nextjs,rust,python,kotlin,go,nodejs,nestjs,fastapi,postgres,mongodb,docker,figma,git,github&perline=10" alt="skills" />
+</p>
+
+## ÐŸÑ€Ð¾ÐµÐºÑ‚Ñ‹
+
+| ÐŸÑ€Ð¾ÐµÐºÑ‚ | Ð§Ñ‚Ð¾ Ð²Ð½ÑƒÑ‚Ñ€Ð¸ |
+| --- | --- |
+| [Discord-Cleaner](https://github.com/drtovski/Discord-Cleaner) | Desktop-Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾Ð¹ Ð¾Ñ‡Ð¸ÑÑ‚ÐºÐ¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Discord |
+| [Inequa](https://github.com/drtovski/Inequa) | Android-ÐºÐ°Ð»ÑŒÐºÑƒÐ»ÑÑ‚Ð¾Ñ€ Ð´Ð»Ñ Ð°Ð»Ð³ÐµÐ±Ñ€Ð°Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… Ð½ÐµÑ€Ð°Ð²ÐµÐ½ÑÑ‚Ð² |
+| [widgetable-miss-python](https://github.com/drtovski/widgetable-miss-python) | Python CLI Ð´Ð»Ñ Widgetable Miss You |
+| [widgetable-miss-typescript](https://github.com/drtovski/widgetable-miss-typescript) | TypeScript CLI Ð´Ð»Ñ Widgetable Miss You |
+| [widgetable-miss-rust](https://github.com/drtovski/widgetable-miss-rust) | Rust CLI Ð´Ð»Ñ Widgetable Miss You |
+
+## Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ°
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drtovski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drtovski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=drtovski&theme=tokyonight&hide_border=true" alt="github streak"/>
+</p>
+
+## Ð§Ñ‚Ð¾ Ð´ÐµÐ»Ð°ÑŽ
+
+- ÑÐ¾Ð±Ð¸Ñ€Ð°ÑŽ frontend Ð¸ fullstack-Ð¿Ñ€Ð¾ÐµÐºÑ‚Ñ‹ Ñ Ð½Ð¾Ñ€Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¼ UX;
+- Ð¿Ð¸ÑˆÑƒ CLI Ð¸ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð°Ñ†Ð¸ÑŽ, ÐºÐ¾Ð³Ð´Ð° Ñ€ÑƒÐºÐ°Ð¼Ð¸ ÑƒÐ¶Ðµ ÑÐºÑƒÑ‡Ð½Ð¾;
+- ÑÐºÑÐ¿ÐµÑ€Ð¸Ð¼ÐµÐ½Ñ‚Ð¸Ñ€ÑƒÑŽ Ñ Rust, Kotlin Ð¸ reverse engineering;
+- Ð´ÐµÑ€Ð¶Ñƒ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ Ñ‡Ð¸ÑÑ‚Ñ‹Ð¼: Ð¼ÐµÐ½ÑŒÑˆÐµ Ð¼ÑƒÑÐ¾Ñ€Ð°, Ð±Ð¾Ð»ÑŒÑˆÐµ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð¾Ð², ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ð¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ.
